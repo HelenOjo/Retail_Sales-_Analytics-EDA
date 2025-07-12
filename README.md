@@ -9,20 +9,22 @@ Inconsistent sales across states and sales reps. Lack of visibility into custome
 ### Solution
 Conducted a full Exploratory Data Analysis (EDA) using Python to identify drivers of revenue, profit gaps, and demographic trends.
 
+
 ### Analytical Focus Areas
-Data cleaning and transformation - Pandas, Missingno, Seaborn
+**Data cleaning and transformation** - Pandas, Missingno, Seaborn
 
-Customer Segmentation - By age group, gender, and purchase behaviour
+**Customer Segmentation** - By age group, gender, and purchase behaviour
 
-Performance comparison - across sales reps and states
+**Performance comparison** - across sales reps and states
 
-Profitability Evaluation - Total cost vs. revenue per category
+**Profitability Evaluation** - Total cost vs. revenue per category
 
-Visual correlation analysis - heatmaps and bar charts
+**Visual correlation analysis** - heatmaps and bar charts
 
-Regional Analysis - Performance by state and opportunity mapping
+**Regional Analysis** - Performance by state and opportunity mapping
 
-Payment Method Impact - Sales pattern by payment mode
+**Payment Method Impact** - Sales pattern by payment mode
+
 
 ### Top Insights
 #### Insight Area and Key Observation
@@ -35,6 +37,7 @@ Payment Method Impact - Sales pattern by payment mode
 -**Payment Trends:**	Digital payments are preferred by younger age groups; cash is more common among older segments.
 
 -**Geographic Gap:**	Some states underperform despite potential, likely due to weak rep coverage.
+
 
 ### Business Levers & Opportunities
 #### Lever	and Opportunity
