@@ -27,7 +27,7 @@ Conducted a full Exploratory Data Analysis (EDA) using Python to identify driver
 
 
 ### Top Insights
-#### Insight Area and Key Observation
+   #### Insight Area and Key Observation
 -**Pricing Strategy:**	Some items sold in high volume had low unit prices vs cost undervalued.
 
 -**Sales Team Performance:**	Wide variation in performance across reps; opportunity for coaching or redistribution.
@@ -40,7 +40,7 @@ Conducted a full Exploratory Data Analysis (EDA) using Python to identify driver
 
 
 ### Business Levers & Opportunities
-#### Lever	and Opportunity
+   #### Lever	and Opportunity
 -**Product Pricing:**	Re-evaluate underpriced high-volume products
 
 -**Sales Enablement:**	Upskill or restructure low-performing reps
