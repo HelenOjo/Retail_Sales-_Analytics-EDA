@@ -1,4 +1,4 @@
-### Retail Sales Analytics: Customer, Product, and Profit Insights for Dune
+## Retail Sales Analytics: Customer, Product, and Profit Insights for Dune
 
 ### Overview
 Analysed retail sales data to uncover trends in customer behaviour, sales team performance, pricing, and regional performance.
@@ -26,9 +26,9 @@ Payment Method Impact - Sales pattern by payment mode
 
 ### Top Insights
 #### Insight Area and Key Observation
--**Pricing Strategy:**	Some items sold in high volume had low unit prices vs cost → undervalued.
+-**Pricing Strategy:**	Some items sold in high volume had low unit prices vs cost undervalued.
 
--**Sales Team Performance:**	Wide variation in performance across reps → opportunity for coaching or redistribution.
+-**Sales Team Performance:**	Wide variation in performance across reps; opportunity for coaching or redistribution.
 
 -**Customer Behaviour:**	Younger customers prefer trendy, low-cost products; older customers spend more per unit.
 
@@ -37,7 +37,7 @@ Payment Method Impact - Sales pattern by payment mode
 -**Geographic Gap:**	Some states underperform despite potential, likely due to weak rep coverage.
 
 ### Business Levers & Opportunities
-#### Lever	Opportunity
+#### Lever	and Opportunity
 -**Product Pricing:**	Re-evaluate underpriced high-volume products
 
 -**Sales Enablement:**	Upskill or restructure low-performing reps
